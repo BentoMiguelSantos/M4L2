@@ -1,0 +1,2 @@
+0 Desfoque
+1 Normal
